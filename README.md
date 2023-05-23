@@ -1,6 +1,8 @@
 # OceanDataAnalytics-OpenPsychometrics
 
-Visualization of Data Obtained from test hosted on OpenPsychometrics.org. Data was obtained from the following link https://www.kaggle.com/datasets/lucasgreenwell/ocean-five-factor-personality-test-responses. The data was a .csv file originally containing 19,720 entries. It contained about 50 questions which were divided into 10 questions per trait. Each question was answered from 1 to 5. It also contained information about the respondant's age, gender, ethnicity, nationality and their preferred hand usage.
+The big five personality traits, often referred to as OCEAN or CANOE, are: Openness, Conscientiousness, Extroversion, Agreeableness, and Neuroticism. These five traits represent broad domains of human behaviour and are often used by Psychology and Psychiatric professionals as well as HR practicioners to evaluate behaviours of their subjects.
+
+This is a Visualization of Data Obtained from test hosted on OpenPsychometrics.org. Data was obtained from the following link https://www.kaggle.com/datasets/lucasgreenwell/ocean-five-factor-personality-test-responses. The data was a .csv file originally containing 19,720 entries. It contained about 50 questions which were divided into 10 questions per trait. Each question was answered from 1 to 5. It also contained information about the respondant's age, gender, ethnicity, nationality and their preferred hand usage.
 
 See the following for more info on the obtained data: 
 [codebook.txt](https://github.com/hamzaashfaque/OceanDataAnalytics-OpenPsychometrics/files/11539774/codebook.txt)
