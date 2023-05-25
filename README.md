@@ -7,4 +7,4 @@ This is a Visualization of Data Obtained from test hosted on OpenPsychometrics.o
 See the following for more info on the obtained data: 
 [codebook.txt](https://github.com/hamzaashfaque/OceanDataAnalytics-OpenPsychometrics/files/11539774/codebook.txt)
 
-After obtaining the data, it was transformed using pandas and numpy library in Python. The 5 traits were calculated from the answers to the original questions. Anomolies in data were removed. The data was properly formatted by converting some birthdays in the age section to the age in years and converting unspecified data to NaN values. The data was then exported as another .csv file. The data was then visualized using Microsoft's Power BI tool.
+After obtaining the data, it was transformed using pandas and numpy library in Python. The 5 traits were calculated from the answers to the original questions. Anomolies in data were removed. The data was properly formatted by converting some birthdays in the age section to the age in years and converting unspecified data to NaN values. The data was then exported as another .csv file. The prepared data was then visualized using Microsoft's Power BI tool.
